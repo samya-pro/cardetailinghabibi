@@ -487,7 +487,7 @@ textarea::placeholder {
   margin-bottom: -90px;
 }
 .header-wrapper .logo img {
-  height: 68px;
+  height: 98px;
 }
 .header-wrapper.fixed {
   position: fixed;
@@ -1280,7 +1280,7 @@ footer {
   text-align: center;
 }
 .footer-widget-area .footer-logo {
-  height: 68px;
+  height: 98px;
   margin-bottom: 12px;
 }
 @media screen and (max-width: 991px) {
